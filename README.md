@@ -4,4 +4,5 @@ Deep Learning and Attention Mechanism Approach for UAV-Based Wildfire Detection 
 <img src="/pics/app_welcome.jpeg" width="250" height="400">
 <img src="/pics/Fire_loading.jpeg" width="250" height="400">
 <img src="/pics/Fire_verdict.jpeg" width="250" height="400">
+## Fire Segmentation App
 
